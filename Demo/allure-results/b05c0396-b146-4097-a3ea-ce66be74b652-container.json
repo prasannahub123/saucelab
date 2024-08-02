@@ -1,1 +1,0 @@
-{"uuid":"b05c0396-b146-4097-a3ea-ce66be74b652","name":"TestClass.LogIn","children":["f5be6a6c-cfa6-4b16-b208-9a1a8bff2c94"],"befores":[{"name":"SetUpTests","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722276840596,"stop":1722276844216}],"afters":[],"start":1722276840494,"stop":1722276846280}
